@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,900&display=swap" rel="stylesheet"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap" rel="stylesheet"/>
+</head>
+<body>
+    <table  align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="border-collapse: collapse;">
+        <tr>
+            <td>
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                   <td width="260" valign="top">
+                    <img src="https://i.postimg.cc/SR1b8nVD/Jaime-nuevo.gif" alt="JAIME RUVALCABA DIRECTOR DE MARKETING DIGITAL"/>
+                   </td>
+           
+                   <td width="260" valign="top">
+                    <img src="https://i.postimg.cc/nzMswrfM/formamoviendose2.gif" alt="MKTEAM"/>
+                    <h2 style="margin-top: -20px; vertical-align: super; font-family: 'Work Sans', sans-serif;">
+                        <img src="https://i.postimg.cc/5y5xs6LP/FB.gif" alt="JAIME RUVALCABA DIRECTOR DE MARKETING DIGITAL"/> <sup style="color: black; font-family: 'Work Sans', sans-serif; font-size: 0.8em;">JAIME RUVALCABA RAMÍREZ</sup> </h2>
+                    <h3 style="margin-top: -20px; vertical-align: super; font-family: 'Work Sans', sans-serif;">
+                        <img src="https://i.postimg.cc/QNv5PP51/Puesto.gif" alt="Director de Marketing Digital" style="vertical-align: text-bottom; "/> <sup style="color: black; font-family: 'Work Sans', sans-serif; font-size: 0.8em;">Director de Marketing Digital</sup> </h3>
+                        <h4 style="margin-top: -10px; vertical-align: super; font-family: 'Work Sans', sans-serif;">
+                            <img src="https://i.postimg.cc/B6KZ1h6f/Cel.gif" alt="tel:+52 33 24 72 33 64" style="vertical-align: baseline;"/>
+                            <a href="+523324723364"style="vertical-align: super; text-decoration: none; color:#82A8A8; "><sup style="font-family: 'Work Sans', sans-serif; font-size: 1em;">+52 33 24 72 33 64</sup> </a> <sup style="color:#82A8A8;"> | </sup>   <a href="tel:+523324930123"style="vertical-align: super; text-decoration: none; color:#82A8A8;"><sup style="font-family: 'Work Sans', sans-serif; font-size: 1em;">+52 33 24 93 01 23</sup> </a></h4>
+                    <h5 style="vertical-align: super; font-family: 'Work Sans', sans-serif;">
+                        <img src="https://i.postimg.cc/xTyCRFP0/Mail.gif" alt="marketing.digital@villagroup.com" style="vertical-align: text-bottom; "/>
+                        <a href="mailto:marketing.digital@villagroup.com?Subject=Contactar%20Director%20De%20Marketing" style="vertical-align: super; text-decoration: none; color:#82A8A8;" ><sup style="font-family: 'Work Sans', sans-serif; font-size: 1em;">marketing.digital@villagroup.com</sup> </a> 
+                    </h5>
+                    <img src="https://i.postimg.cc/J0ksMFnL/Figuramoviendose1.gif" alt="MKTEAM"/>
+                    </tr>
+                   </table>
+            </td>
+        </tr>
+    </table>
+    
+</body>
+</html>
